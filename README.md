@@ -1,2 +1,1 @@
-# JoelPlumos-Portfolio.github.io
-My Portfolio First Try,
+# Hello Word By Me!
